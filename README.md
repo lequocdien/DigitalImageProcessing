@@ -9,3 +9,7 @@ Project của môn học "Xử lý ảnh". Xây dựng code dựa trên các gi�
 .NET Framework
 
 ZedGraph
+
+### Screenshoot
+
+<img src="https://imgur.com/kndskMB">
