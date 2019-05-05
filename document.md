@@ -113,7 +113,7 @@ Tăng độ tương phản cho ảnh.
 
 ## 5.Spatial Filtering
 
-<img src=https://imgur.com/a/Ep1cLJj>
+<img src="https://i.imgur.com/ILPX67j.png">
 
 ### 5.1.Min
 
@@ -142,7 +142,7 @@ Tăng độ tương phản cho ảnh.
 	| 1/9 | 1/9 | 1/9 |
 	| 1/9 | 1/9 | 1/9 |  
 
-<img src=https://imgur.com/a/G9iWxoQ>
+<img src="https://i.imgur.com/RImJxaJ.png">
 
 ### 5.5.Weighted averaging filter.
 
