@@ -12,3 +12,16 @@ D:\Personal\My_Code\CSharp\ImageProcessing\ImageProcessing\obj\Debug\DigitalImag
 D:\Personal\My_Code\CSharp\ImageProcessing\ImageProcessing\obj\Debug\DigitalImageProcessing.csproj.CopyComplete
 D:\Personal\My_Code\CSharp\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
 D:\Personal\My_Code\CSharp\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\DigitalImageProcessing.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.fmInput.resources
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.frmAbout.resources
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DigitalImageProcessing.resources
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\DigitalImageProcessing.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\DigitalImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\DigitalImageProcessing.csproj.CopyComplete
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\ASUS\Desktop\XuLyHinhAnh\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb

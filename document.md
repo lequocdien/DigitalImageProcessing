@@ -26,7 +26,7 @@
  	- Kỹ thuật miền không gian: Thao tác trực tiếp với pixel hình ảnh.
   		- Cân bằng histogram ảnh: Cân bằng sáng lại ảnh.
   		- Kỹ thuật xử lý điểm: Tăng sáng, giảm sáng.
-  		- Kỹ thuật xử lý láng ghiềnh: Loại bỏ nhiễu.
+  		- Kỹ thuật xử lý láng giềng: Loại bỏ nhiễu.
  	- Kỹ thuật miền tần số: Thao tác biến đổi Fourier hoặc biến đổi wavelet của hình ảnh.
 - Trong bài này chỉ quan tâm đến `kỹ thuật nâng cao ảnh trên miền không gian (không có quy luật)`.
 

@@ -13,3 +13,6 @@ ZedGraph
 ### Screenshoot
 
 <img src="https://i.imgur.com/kndskMB.png">
+<img src="https://i.imgur.com/yTNOQnu.png">
+<img src="https://i.imgur.com/kU4CpnH.png">
+<img src="https://i.imgur.com/nh2EtZg.png">
